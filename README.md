@@ -1,6 +1,6 @@
 <p align=center>
-# S.D.D - Subdomain-Discovery
-A basic subdomain enumeration tool.
+<h1>S.D.D - Subdomain Discovery</h1>
+<span>A basic subdomain enumeration tool.</span>
 </p>
 
 ## Installation
