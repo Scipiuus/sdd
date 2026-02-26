@@ -62,7 +62,7 @@ If the verbosity is activated the script will return every domain tested and the
 
 
 # License
-S.D.D is licensed under the GNU Public license. take a look at the [LICENSE](LICENSE.md) for more information.
+S.D.D is licensed under the GNU General Public License. take a look at the [LICENSE](LICENSE.md) for more information.
 
 > [!NOTE]
 > _This tool was created for training and study purposes in Python and is not intended for professional use. Feel free to contribute._
