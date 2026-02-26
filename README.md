@@ -51,8 +51,7 @@ Options:
 python sdd.py https://www.google.com usr/wordlists/sublist.txt -V -T5
 ```
 # License
-S.D.D is licensed under the GNU GPL license. take a look at the[LICENSE](LICENSE.md)for more information.
-```
-[!Note]
-This tool was created for training and study purposes in Python and is not intended for professional use.
-```
+S.D.D is licensed under the GNU GPL license. take a look at the [LICENSE](LICENSE.md) for more information.
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
