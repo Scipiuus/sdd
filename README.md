@@ -12,7 +12,7 @@ To run properly, S.D.D depends on the following modules:
   - `requests`
   - `tldextract`
     
-Also, it requires a subdomain `wordlist`. The supported files extension are: `.txt` and `.list`.
+Also, it requires a subdomain `wordlist`. The supported files extension are: `".txt"` and `".list"`.
 
 #### Requirements installation:
 * Windows:
