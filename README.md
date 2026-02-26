@@ -2,10 +2,13 @@
 A basic subdomain enumeration tool.
 
 ## Usage
-```sdd.py -h```
-Show instructions for the tool usage.
 ```
-sdd.py <https://taget_url> [wordlist_path] [optional]
+sdd.py -h
+```
+Show instructions for the tool usage.
+
+```
+sdd.py <https://taget_url> [wordlist_path] [option]
 
 ~ sdd.py https://test.com wordlist.txt
 
