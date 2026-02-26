@@ -45,3 +45,11 @@ Options:
   -T, --timeout         Set the timeout value (default = 5)          
   -V, --verbose         Verbosity mode (default = false)
 ```
+
+### Usage Example
+```
+python sdd.py https://www.google.com usr/wordlists/sublist.txt -V -T5
+```
+
+[!Note]
+This tool was created for training and study purposes in Python and is not intended for professional use.
