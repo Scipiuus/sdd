@@ -58,10 +58,11 @@ Options:
 ```
 python sdd.py https://www.google.com usr/wordlists/sublist.txt -V -T5
 ```
+If the verbosity is activated the script will return every domain tested and the status code, else, the script will not show the tests, but a list of the sucessfull tests will be printed in the end.
 
 
 # License
-S.D.D is licensed under the GNU GPL license. take a look at the [LICENSE](LICENSE.md) for more information.
+S.D.D is licensed under the MIT license. take a look at the [LICENSE](LICENSE.md) for more information.
 
 > [!NOTE]
 > _This tool was created for training and study purposes in Python and is not intended for professional use. Feel free to contribute._
