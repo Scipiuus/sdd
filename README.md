@@ -43,4 +43,3 @@ Options:
   -T, --timeout         Set the timeout value (default = 5)          
   -V, --verbose         Verbosity mode (default = false)
 ```
-## Installation
