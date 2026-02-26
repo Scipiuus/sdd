@@ -15,13 +15,13 @@ To run properly, S.D.D depends on the following modules:
 #### Requirements installation:
 * Windows:
 ```
-python -m pip install requirements.txt
+c:/python32/python.exe -m pip install requirements.txt
 ```
+
 * Linux:
 ```
 sudo pip install -r requirements.txt
 ```
-
 
 ## Usage
 ```
