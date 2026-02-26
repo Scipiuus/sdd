@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/CLI-Yes-orange"/>
   <img src="https://img.shields.io/badge/Version-v1.0-green"/>
   <img src="https://img.shields.io/badge/Status-active-brightgreen"/>
-  <img src="https://img.shields.io/badge/License-MIT-bluee"/>
+  <img src="https://img.shields.io/badge/License-MIT-blue"/>
   </br>
 </div>
 
