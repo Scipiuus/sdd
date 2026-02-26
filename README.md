@@ -11,7 +11,7 @@
 
 ## Installation
 ```
-git clone https://github.com/Scipiuus/SDD.git
+git clone https://github.com/Scipiuus/sdd.git
 ```
 S.D.D currently supports Python 3.2+
 
