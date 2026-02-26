@@ -164,9 +164,10 @@ def main():
                 if validate_domain(args.verbose, target, args.timeout):
                     success_list.append(target)
     
-        print('\n\033[32m============ [ACTIVE DOMAINS LIST] ============ \033[0m')
-        for item in success_list:
-            print(f'\033[32m[+] {item}\033[0m')
+        if not args.verbose:
+            print('\n\033[32m============ [ACTIVE DOMAINS LIST] ============ \033[0m')
+            for item in success_list:
+                print(f'\033[32m[+] {item}\033[0m')
     
 
     except Exception as e:
