@@ -2,8 +2,10 @@
   <h1>S.D.D - Subdomain Discovery</h1>
   <p>A basic subdomain enumeration tool.</p>
   <img src="https://img.shields.io/badge/Python-3.14-blue"/>
-  <img src="https://img.shields.io/badge/Version-v1.0-green"/>
   <img src="https://img.shields.io/badge/CLI-Yes-orange"/>
+  <img src="https://img.shields.io/badge/Version-v1.0-green"/>
+  <img src="https://img.shields.io/badge/Status-active-brightgreen"/>
+  <img src="https://img.shields.io/badge/License-MIT-bluee"/>
   </br>
 </div>
 
