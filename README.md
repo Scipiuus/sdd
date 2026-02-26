@@ -1,6 +1,7 @@
 <div align=center>
   <h1>S.D.D - Subdomain Discovery</h1>
-  <p>A basic subdomain enumeration tool.<p>
+  <p>A basic subdomain enumeration tool.</p>
+  </br>
 </div>
 
 ## Installation
