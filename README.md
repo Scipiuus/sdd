@@ -11,6 +11,8 @@ S.D.D currently supports Python 3.2+
 To run properly, S.D.D depends on the following modules:
   - `requests`
   - `tldextract`
+    
+Also, it requires a subdomain `wordlist`. The supported files extension are: `.txt` and `.list`.
 
 #### Requirements installation:
 * Windows:
