@@ -1,6 +1,8 @@
+<p align=center>
 # S.D.D - Subdomain-Discovery
 A basic subdomain enumeration tool.
-
+</p>
+<br>
 ## Installation
 ```
 git clone https://github.com/Scipiuus/SDD.git
