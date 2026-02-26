@@ -27,7 +27,7 @@ c:/python32/python.exe -m pip install requirements.txt
 ```
 sudo pip install -r requirements.txt
 ```
-\
+
 ## Usage
 ```
 sdd.py -h
