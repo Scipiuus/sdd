@@ -40,12 +40,12 @@ py -m pip install -r requirements.txt
 
 * Linux:
 ```
-sudo pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ## Usage
 ```
-python sdd.py -h
+$ python sdd.py -h
 ```
 Displays instructions for using the tool.
 
