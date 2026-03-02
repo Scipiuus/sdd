@@ -30,9 +30,9 @@ To run properly, S.D.D depends on the following modules:
   - `requests`
   - `tldextract`
     
-Also, it requires a subdomain `wordlist`. The supported files extension are: `".txt"` and `".list"`.
+Additionally, it requires a subdomain `wordlist`. The supported files extension are: `".txt"` and `".list"`.
 
-#### Requirements installation:
+#### Requirements Installation:
 * Windows:
 ```
 c:/python32/python.exe -m pip install requirements.txt
@@ -45,14 +45,14 @@ sudo pip install -r requirements.txt
 
 ## Usage
 ```
-sdd.py -h
+python sdd.py -h
 ```
-Show instructions for the tool usage.
+Displays instructions for using the tool.
 
 ```
 sdd.py <https://taget_url> [wordlist_path] [option]
 
-~ sdd.py https://test.com wordlist.txt -V -T2
+$ sdd.py https://test.com wordlist.txt -V -T2
 
 Positional Arguments:
   url                   target url
