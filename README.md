@@ -35,7 +35,7 @@ Additionally, it requires a subdomain `wordlist`. The supported files extension 
 #### Requirements Installation:
 * Windows:
 ```
-c:/python32/python.exe -m pip install requirements.txt
+c:/python32/python.exe -m pip install -r requirements.txt
 ```
 
 * Linux:
