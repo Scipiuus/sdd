@@ -66,7 +66,7 @@ Options:
 
 ### Usage Example
 ```
-python sdd.py https://www.google.com usr/wordlists/sublist.txt -V -T5
+$ python sdd.py https://www.google.com usr/wordlists/sublist.txt -V -T5
 ```
 If the verbosity is activated the script will return every domain tested and the status code, else, the script will not show the tests, but a list of the sucessfull tests will be printed in the end.
 
