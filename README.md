@@ -23,7 +23,7 @@
 ```
 git clone https://github.com/Scipiuus/sdd.git
 ```
-S.D.D currently supports Python 3.2+
+S.D.D currently supports Python 3.10+
 
 ### Dependencies
 To run properly, S.D.D depends on the following modules:
@@ -35,7 +35,7 @@ Additionally, it requires a subdomain `wordlist`. The supported files extension 
 #### Requirements Installation:
 * Windows:
 ```
-c:/python32/python.exe -m pip install -r requirements.txt
+py -m pip install -r requirements.txt
 ```
 
 * Linux:
