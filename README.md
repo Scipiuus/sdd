@@ -23,7 +23,6 @@
 ```
 git clone https://github.com/Scipiuus/sdd.git
 ```
-S.D.D currently supports Python 3.10+
 
 ### Dependencies
 To run properly, S.D.D depends on the following modules:
@@ -40,19 +39,19 @@ py -m pip install -r requirements.txt
 
 * Linux:
 ```
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
 ```
-$ python sdd.py -h
+python sdd.py -h
 ```
 Displays instructions for using the tool.
 
 ```
 sdd.py <https://taget_url> [wordlist_path] [option]
 
-$ sdd.py https://test.com wordlist.txt -V -T2
+sdd.py https://test.com wordlist.txt -V -T2
 
 Positional Arguments:
   url                   target url
@@ -66,13 +65,13 @@ Options:
 
 ### Usage Example
 ```
-$ python sdd.py https://www.google.com usr/wordlists/sublist.txt -V -T5
+python sdd.py https://www.google.com usr/wordlists/sublist.txt -V -T5
 ```
 If the verbosity is activated the script will return every domain tested and the status code, else, the script will not show the tests, but a list of the sucessfull tests will be printed in the end.
 
 
 # License
-S.D.D is licensed under the GNU General Public License. take a look at the [LICENSE](LICENSE) for more information.
+S.D.D is licensed under the GNU GPL license. Take a look at the [LICENSE](LICENSE) for more information.
 
 > [!NOTE]
-> _This tool was created for training and study purposes in Python and is not intended for professional use. Feel free to contribute and suggest any improvement._
+> _This tool was created for educational and training purposes. Feel free to contribute and suggest any improvement.._
